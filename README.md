@@ -111,8 +111,8 @@ print(predicted_labels)
 ![Confusion Matrix](path/to/confusion_matrix.png)
 
 ## Авторы
-- **Студент**: Холмс Д.А, группа ШАД-212
-- **Научный руководитель**: Проневич О.Б.
+- **Студент** Solomka
+
 
 ## Лицензия
 Этот проект лицензирован под лицензией MIT. Подробности см. в [LICENSE](LICENSE).
